@@ -1,0 +1,28 @@
+#EXTM3U8
+ 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Enlace-TV-en-vivo-Online.png?resize=696%2C392&ssl=1" group-title="pantetviptv" , pantetv
+https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8?PlaylistM3UCL
+ 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-hVk-EuKzKz0/XxuOyNLF6vI/AAAAAAAACK0/1CnjYHfAV-wwy5n5gxKOrTbTqSwjh87YgCLcBGAsYHQ/s540/diostevekids_logoroku.jpg" group-title="pantetviptv" , pantetv
+https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8?PlaylistM3UCL
+ 
+#EXTINF:-1 tvg-logo="https://cristianostv.net/wp-content/uploads/2023/08/cropped-logo-arreglado-1.png" group-title="pantetviptv" , pantetv
+https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?PlaylistM3UCL
+ 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8ee2b2ea9b1af3211e9f51ab1d8f87c2.webp" group-title="pantetviptv" , pantetv
+https://radiocret.net:8082/hls/tvcret.m3u8?PlaylistM3UCL
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Vida-tv.jpg" group-title="pantetviptv" , pantetv
+https://2-fss-2.streamhoster.com/pl_120/amlst:200226-1449024/chunklist_b800000.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://api.patentes-y-marcas.com/uploads/BOPIBrand_imagen/logos-tv-n0365227.jpg" group-title="pantetviptv" , pantetv
+https://streamer1.streamhost.org/salive/logoskidsH/chunklist_w582401970.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/sinlogo.png" group-title="pantetviptv" , pantetv
+https://vcp.myplaytv.com/promar/promar/chunklist_w393557977.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/bda4dda4f3d61d88354e6d64a8fdbc44.png" group-title="pantetviptv" , pantetv
+https://patagoniaip.trapemn.tv:1936/cristianos/restaurandovidatv1.stream/chunks.m3u8?nimblesessionid=23756463&PlaylistM3UCL
+ 
+#EXTINF:-1 tvg-logo="https://www.radio.de/images/broadcasts/93/30/168199/1/c300.png" group-title="pantetviptv" , pantetv
+https://5f700d5b2c46f.streamlock.net/sublime/sublime/chunklist_w759721787.m3u8?PlaylistM3UCL
